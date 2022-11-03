@@ -7,7 +7,7 @@
 Travel behavior analysis based on spatiotemporal big data can provide support for the formulation of refined and personalized traffic control measures. License plate recognition data, as a kind of spatiotemporal big data with high precision, high accuracy and full sampling rate, has attracted extensive attentions in recent years. However, existing literatures on travel behavior analysis based on license plate recognition data seldom consider the characteristics of the road network in the process of travel behavior analysis, which leads to low correlation between the mined travel patterns and the road network. This paper first fuses the license plate recognition data and the road network topology data. Based on the fusion data, a clustering algorithm is used to classify vehicles according to the travel behavior characteristics of motorized vehicles. And vehicles on the road network are divided into five categories, including vehicles for temporary business trips, vehicles that passing the area, rarely used vehicles for families, commuting vehicles, and taxis. At the same time, we classify intersections on the road network based on complex network method and clustering algorithm, and the intersections that traffic managers need to focus on have been successfully mined. On this basis, the travel pattern of travel vehicles is further explored based on the vehicle travel behavior and road network topology information. The passing frequency matrix and passing frequency ratio matrix are constructed, which supports the formulation of traffic control measures and suggestions.
 
 # structure of code
-project
+project\t
 |--车辆画像分析
 |  |--packages_rely
 |  |--车辆画像分析.html
