@@ -40,7 +40,7 @@ project
 第一部分车辆画像分析的代码在“车辆画像分析”文件夹；第二部分交叉口画像分析的代码在“交叉口画像分析”的文件夹中；第三部分结合车辆画像和交叉口画像结果对车辆行为进行分析在“各类型交叉口各类型车辆的出行需求分析”文件夹中。  
 
 # 参考文献
-若希望引用代码或文中的方法可以引用下列论文：
+若希望引用代码或文中的方法可以引用下列论文：  
 姚文彬,戎栋磊,胡佑薇,苏弘扬,陈诺,金盛.关联路网拓扑特性的车辆出行行为画像分析研究[J/OL].交通运输工程与信息学报:1-20[2022-11-03].DOI:10.19961/j.cnki.1672-4747.2022.09.011.
 
 Yao W.,Rong D.,Hu Y., et al.,Research on vehicle travel behavior portrait analysis relating to the topological characteristics of road network. Journal of Transportation Engineering and Information, 2022, doi:https://doi.org/10.19961/j.cnki.1672-4747.2022.09.011.
